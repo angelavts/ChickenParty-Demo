@@ -1,0 +1,16 @@
+{
+"companyName": "Angela",
+"productName": "ChickenParty",
+"productVersion": "0.1",
+"dataUrl": "ChickenParty-Demo.data.unityweb",
+"wasmCodeUrl": "ChickenParty-Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "ChickenParty-Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
